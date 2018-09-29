@@ -1,2 +1,2 @@
 # flask_blog
-prototype blog using Flask framework
+A Simple chat blog using the Python Flask web framework
